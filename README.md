@@ -1,19 +1,19 @@
 # CrudReact
 Um simples crud em react
 
-### Backend:
+> ### Backend:
 
 npm i --save json-server@0.13.0 -E     
 
-> Para rodar o backend usar:
+Para rodar o backend usar:
 
 npm start
 
-ou
+##### ou
 
 yarn start
 
-### Frontend:
+> ### Frontend:
 
 npm install
 
@@ -21,7 +21,7 @@ npm build
 
 npm start
 
-ou
+###### ou
 
 yarn
 
