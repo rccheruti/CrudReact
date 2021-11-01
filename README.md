@@ -1,14 +1,31 @@
 # CrudReact
-Um crud em react
+Um simples crud em react
 
-na pasta backend:
+### Backend:
 
 npm i --save json-server@0.13.0 -E     
 
-para rodar o backend usar npm start
+> Para rodar o backend usar:
 
-Front
-
-npm -i
 npm start
+
+ou
+
+yarn start
+
+### Frontend:
+
+npm install
+
+npm build
+
+npm start
+
+ou
+
+yarn
+
+yarn build
+
+yarn start
 
